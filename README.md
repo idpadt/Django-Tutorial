@@ -4,4 +4,4 @@ NPM 	: 2106650456
 
 Kelas	: A
 
-Hobi	: Rebahan
+Hobi	: Makan
