@@ -31,6 +31,8 @@ APP_NAME = os.environ.get('APP_NAME')
 ALLOWED_HOSTS = [f'{APP_NAME}.up.railway.app']
 CSRF_TRUSTED_ORIGINS = [f'https://{APP_NAME}.up.railway.app']
 
+ALLOWED_HOSTS = []
+
 
 # Application definition
 
