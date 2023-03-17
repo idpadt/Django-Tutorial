@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-rzaq+xdchz=@-goqbdciy@m)-2udr&u*+kj69*-p!v*j*3ph+5
 DEBUG = True
 
 #idk what this means
-import os
-APP_NAME = 'abcd' #os.environ.get('APP_NAME')
+""" import os
+APP_NAME = 'abcd' #os.environ.get('APP_NAME') """
 ALLOWED_HOSTS = [f'{APP_NAME}.up.railway.app']
 CSRF_TRUSTED_ORIGINS = [f'https://{APP_NAME}.up.railway.app']
 
