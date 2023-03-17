@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-rzaq+xdchz=@-goqbdciy@m)-2udr&u*+kj69*-p!v*j*3ph+5
 DEBUG = True
 
 #idk what this means
-ALLOWED_HOSTS = [f'moneytrackertest.up.railway.app']
-CSRF_TRUSTED_ORIGINS = [f'https://moneytrackertest.up.railway.app']
+ALLOWED_HOSTS = [f'abc.up.railway.app']
+CSRF_TRUSTED_ORIGINS = [f'https://abc.up.railway.app']
 
 ALLOWED_HOSTS = []
 
