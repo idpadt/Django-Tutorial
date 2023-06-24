@@ -27,9 +27,9 @@ DEBUG = True
 
 #idk what this means
 """ import os
-APP_NAME = 'abcd' #os.environ.get('APP_NAME') """
+APP_NAME = 'abcd' #os.environ.get('APP_NAME')
 ALLOWED_HOSTS = [f'{APP_NAME}.up.railway.app']
-CSRF_TRUSTED_ORIGINS = [f'https://{APP_NAME}.up.railway.app']
+CSRF_TRUSTED_ORIGINS = [f'https://{APP_NAME}.up.railway.app'] """
 
 
 # Application definition
